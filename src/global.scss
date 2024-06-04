@@ -35,3 +35,17 @@
 /* @import "@ionic/angular/css/palettes/dark.always.css"; */
 /* @import "@ionic/angular/css/palettes/dark.class.css"; */
 @import "@ionic/angular/css/palettes/dark.system.css";
+.rojo,.rojo .sc-ion-action-sheet-md { 
+    color:red !important; 
+   // color: green !important;
+} 
+
+.pink,.pink  .sc-ion-action-sheet-md { 
+    
+   color: pink !important;
+} 
+ion-avatar {
+   --border-radius: 6px;
+   width: 100px;
+    height: 100px;
+ }
